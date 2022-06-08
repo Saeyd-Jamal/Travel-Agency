@@ -35,3 +35,12 @@ inp_subscribe.onblur = function () {
     label_subscribe.style.display = 'flex';
   }
 }
+
+// loading
+const loading = document.getElementById("loading"),
+      body = document.querySelector('body');
+
+window.onload = function(){
+  loading.style.display = "none";
+  body.classList.remove('onload');
+}
