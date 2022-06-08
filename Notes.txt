@@ -1,0 +1,8 @@
+Travel Agency
+----------------- 
+font : Volkhov
+color:
+	- #181E4B
+ 	- #DF6951
+	- #FF946D
+	- #FFF1DA
